@@ -1,0 +1,25 @@
+{
+  "name": "base-express-server",
+  "version": "1.0.0",
+  "description": "NodeJS Base Server Using Express.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seannHewitson/Base-Express-Server.git"
+  },
+  "author": "Seann Hewitson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seannHewitson/Base-Express-Server/issues"
+  },
+  "homepage": "https://github.com/seannHewitson/Base-Express-Server#readme"
+}

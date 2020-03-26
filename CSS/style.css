@@ -1,0 +1,23 @@
+a, abbr, acronym, address, applet, article, aside, audio,
+b, big, blockquote, body, canvas, caption, center, cite, code, dd,
+del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption,
+figure, footer, form, h1, h2, h3, h4, h5, h6, hgroup,
+html, iframe, img, ins, kbd, legend, li, mark, menu, object,
+ol, output, p, pre, q, ruby, s, samp, small, strike,
+strong, sub, summary, sup, table, tbody, td, tfoot, th, thead,
+time, tr, tt, u, ul, var, video, nav{
+	margin:0;
+	padding:0;
+	border:0;
+    transition:500ms cubic-bezier(.4, 0, .2, 1);
+    -o-transition:500ms cubic-bezier(.4, 0, .2, 1);
+    -ms-transition:500ms cubic-bezier(.4, 0, .2, 1);
+    -moz-transition:500ms cubic-bezier(.4, 0, .2, 1);
+    -webkit-transition:500ms cubic-bezier(.4, 0, .2, 1);
+}
+
+html{   font-size:16px; }
+
+body{
+    font-family:'Titillium Web', sans-serif;
+}
